@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ambient shader with texture", "Ambient shader with texture\Ambient shader with texture.vcxproj", "{3DF0B8C2-24AC-4683-848A-18DCEE2E3ED6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DF0B8C2-24AC-4683-848A-18DCEE2E3ED6}.Debug|x64.ActiveCfg = Debug|x64
+		{3DF0B8C2-24AC-4683-848A-18DCEE2E3ED6}.Debug|x64.Build.0 = Debug|x64
+		{3DF0B8C2-24AC-4683-848A-18DCEE2E3ED6}.Debug|x86.ActiveCfg = Debug|Win32
+		{3DF0B8C2-24AC-4683-848A-18DCEE2E3ED6}.Debug|x86.Build.0 = Debug|Win32
+		{3DF0B8C2-24AC-4683-848A-18DCEE2E3ED6}.Release|x64.ActiveCfg = Release|x64
+		{3DF0B8C2-24AC-4683-848A-18DCEE2E3ED6}.Release|x64.Build.0 = Release|x64
+		{3DF0B8C2-24AC-4683-848A-18DCEE2E3ED6}.Release|x86.ActiveCfg = Release|Win32
+		{3DF0B8C2-24AC-4683-848A-18DCEE2E3ED6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AFD7999-2CE1-428D-8C67-01FF6F4ACA9B}
+	EndGlobalSection
+EndGlobal
